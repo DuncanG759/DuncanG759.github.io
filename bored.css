@@ -21,3 +21,13 @@ header {
   margin-right: -10px;
   margin-top: -10px;
 }
+.button{
+  appearance: button;
+  border: solid black 2px;
+  background-color: grey;
+  border-radius: 35%;
+  margin-left: 4em;
+  padding: .5em;
+  color: black;
+  text-decoration: none;
+}
