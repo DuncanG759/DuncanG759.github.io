@@ -1,0 +1,20 @@
+h1 {
+  color: maroon;
+  border: 4px dotted white;
+  display: inline;
+  display: inline-block;
+  margin-left: 600px;
+  margin-bottom: 1em;
+}
+img {
+  margin-left: 270px;
+}
+body {
+  background-color: black;
+}
+header {
+  background-color: grey;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -10px;
+}
